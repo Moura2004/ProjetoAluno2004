@@ -1,0 +1,92 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #6180a3;
+}
+
+.btn-primary {
+  color: rgb(219, 63, 63);
+  background-color: #354352;
+  border-color: #283a4b;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #39444e;
+  border-color: #445f7a;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #1f1b1b;
+}
+.border-bottom {
+  border-bottom: 1px solid #473b3b;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+.text-center{
+  background-color: #25b625;
+  background: #5d7ea0;
+}
+.principal{
+  margin:10px;
+  border: 1px solid black ;
+}
+.primeira{
+   background-color: aquamarine;
+}
+
+.segundo{
+    background-color: blueviolet;
+}
+
+.terceiro {
+  background-color: crimson;
+}
+
+ 

@@ -1,0 +1,123 @@
+D:\Arquivos\ProjetoAluno2021\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Arquivos\ProjetoAluno2021\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Arquivos\ProjetoAluno2021\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Arquivos\ProjetoAluno2021\bin\Debug\netcoreapp3.1\ProjetoAluno2021.exe
+D:\Arquivos\ProjetoAluno2021\bin\Debug\netcoreapp3.1\ProjetoAluno2021.deps.json
+D:\Arquivos\ProjetoAluno2021\bin\Debug\netcoreapp3.1\ProjetoAluno2021.runtimeconfig.json
+D:\Arquivos\ProjetoAluno2021\bin\Debug\netcoreapp3.1\ProjetoAluno2021.runtimeconfig.dev.json
+D:\Arquivos\ProjetoAluno2021\bin\Debug\netcoreapp3.1\ProjetoAluno2021.dll
+D:\Arquivos\ProjetoAluno2021\bin\Debug\netcoreapp3.1\ProjetoAluno2021.pdb
+D:\Arquivos\ProjetoAluno2021\bin\Debug\netcoreapp3.1\ProjetoAluno2021.Views.dll
+D:\Arquivos\ProjetoAluno2021\bin\Debug\netcoreapp3.1\ProjetoAluno2021.Views.pdb
+D:\Arquivos\ProjetoAluno2021\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.csprojAssemblyReference.cache
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.AssemblyInfoInputs.cache
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.AssemblyInfo.cs
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.csproj.CoreCompileInputs.cache
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.RazorAssemblyInfo.cache
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.RazorAssemblyInfo.cs
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.TagHelpers.input.cache
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.TagHelpers.output.cache
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.RazorCoreGenerate.cache
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.RazorTargetAssemblyInfo.cache
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.RazorTargetAssemblyInfo.cs
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.Views.pdb
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.csproj.CopyComplete
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAluno2021.StaticWebAssets.Manifest.cache
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAluno2021.StaticWebAssets.xml
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.dll
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.pdb
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\ProjetoAluno2021.genruntimeconfig.cache
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\Razor\Views\Aluno\Lista.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\Razor\Views\Aluno\Cadastro.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021\obj\Debug\netcoreapp3.1\Razor\Views\Aluno\Editar.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021 - Copia\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Arquivos\ProjetoAluno2021 - Copia\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Arquivos\ProjetoAluno2021 - Copia\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Arquivos\ProjetoAluno2021 - Copia\bin\Debug\netcoreapp3.1\ProjetoAluno2021.exe
+D:\Arquivos\ProjetoAluno2021 - Copia\bin\Debug\netcoreapp3.1\ProjetoAluno2021.deps.json
+D:\Arquivos\ProjetoAluno2021 - Copia\bin\Debug\netcoreapp3.1\ProjetoAluno2021.runtimeconfig.json
+D:\Arquivos\ProjetoAluno2021 - Copia\bin\Debug\netcoreapp3.1\ProjetoAluno2021.runtimeconfig.dev.json
+D:\Arquivos\ProjetoAluno2021 - Copia\bin\Debug\netcoreapp3.1\ProjetoAluno2021.dll
+D:\Arquivos\ProjetoAluno2021 - Copia\bin\Debug\netcoreapp3.1\ProjetoAluno2021.pdb
+D:\Arquivos\ProjetoAluno2021 - Copia\bin\Debug\netcoreapp3.1\ProjetoAluno2021.Views.dll
+D:\Arquivos\ProjetoAluno2021 - Copia\bin\Debug\netcoreapp3.1\ProjetoAluno2021.Views.pdb
+D:\Arquivos\ProjetoAluno2021 - Copia\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.csprojAssemblyReference.cache
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.AssemblyInfoInputs.cache
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.AssemblyInfo.cs
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.csproj.CoreCompileInputs.cache
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.RazorAssemblyInfo.cache
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.RazorAssemblyInfo.cs
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.TagHelpers.input.cache
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.TagHelpers.output.cache
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.RazorCoreGenerate.cache
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Aluno\Cadastro.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Aluno\Editar.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Aluno\Lista.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.RazorTargetAssemblyInfo.cache
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.RazorTargetAssemblyInfo.cs
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.Views.pdb
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.csproj.CopyComplete
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAluno2021.StaticWebAssets.Manifest.cache
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAluno2021.StaticWebAssets.xml
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.dll
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.pdb
+D:\Arquivos\ProjetoAluno2021 - Copia\obj\Debug\netcoreapp3.1\ProjetoAluno2021.genruntimeconfig.cache
+D:\Arquivos\ProjetoAluno2004\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Arquivos\ProjetoAluno2004\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Arquivos\ProjetoAluno2004\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Arquivos\ProjetoAluno2004\bin\Debug\netcoreapp3.1\ProjetoAluno2021.exe
+D:\Arquivos\ProjetoAluno2004\bin\Debug\netcoreapp3.1\ProjetoAluno2021.deps.json
+D:\Arquivos\ProjetoAluno2004\bin\Debug\netcoreapp3.1\ProjetoAluno2021.runtimeconfig.json
+D:\Arquivos\ProjetoAluno2004\bin\Debug\netcoreapp3.1\ProjetoAluno2021.runtimeconfig.dev.json
+D:\Arquivos\ProjetoAluno2004\bin\Debug\netcoreapp3.1\ProjetoAluno2021.dll
+D:\Arquivos\ProjetoAluno2004\bin\Debug\netcoreapp3.1\ProjetoAluno2021.pdb
+D:\Arquivos\ProjetoAluno2004\bin\Debug\netcoreapp3.1\ProjetoAluno2021.Views.dll
+D:\Arquivos\ProjetoAluno2004\bin\Debug\netcoreapp3.1\ProjetoAluno2021.Views.pdb
+D:\Arquivos\ProjetoAluno2004\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.csprojAssemblyReference.cache
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.AssemblyInfoInputs.cache
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.AssemblyInfo.cs
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.csproj.CoreCompileInputs.cache
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.RazorAssemblyInfo.cache
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.RazorAssemblyInfo.cs
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.TagHelpers.input.cache
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.TagHelpers.output.cache
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.RazorCoreGenerate.cache
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\Razor\Views\Aluno\Cadastro.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\Razor\Views\Aluno\Editar.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\Razor\Views\Aluno\Lista.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.RazorTargetAssemblyInfo.cache
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.RazorTargetAssemblyInfo.cs
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.Views.pdb
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.csproj.CopyComplete
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAluno2021.StaticWebAssets.Manifest.cache
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAluno2021.StaticWebAssets.xml
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.dll
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.pdb
+D:\Arquivos\ProjetoAluno2004\obj\Debug\netcoreapp3.1\ProjetoAluno2021.genruntimeconfig.cache
