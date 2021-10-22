@@ -14402,6 +14402,16 @@
   "RootNamespace": "ProjetoAluno2021",
   "Documents": [
     {
+      "FilePath": "d:\\Arquivos\\ProjetoAluno2004\\ProjetoAluno2004\\Views\\Aluno\\Cadastro.cshtml",
+      "TargetPath": "ProjetoAluno2004\\Views\\Aluno\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Arquivos\\ProjetoAluno2004\\ProjetoAluno2004\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "ProjetoAluno2004\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Arquivos\\ProjetoAluno2004\\Views\\Aluno\\Lista.cshtml",
       "TargetPath": "Views\\Aluno\\Lista.cshtml",
       "FileKind": "mvc"
@@ -14409,6 +14419,21 @@
     {
       "FilePath": "d:\\Arquivos\\ProjetoAluno2004\\Views\\Aluno\\Cadastro.cshtml",
       "TargetPath": "Views\\Aluno\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Arquivos\\ProjetoAluno2004\\ProjetoAluno2004\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "ProjetoAluno2004\\Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Arquivos\\ProjetoAluno2004\\ProjetoAluno2004\\Views\\Aluno\\Editar.cshtml",
+      "TargetPath": "ProjetoAluno2004\\Views\\Aluno\\Editar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Arquivos\\ProjetoAluno2004\\ProjetoAluno2004\\Views\\Home\\Index.cshtml",
+      "TargetPath": "ProjetoAluno2004\\Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14427,8 +14452,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Arquivos\\ProjetoAluno2004\\ProjetoAluno2004\\Views\\Aluno\\Lista.cshtml",
+      "TargetPath": "ProjetoAluno2004\\Views\\Aluno\\Lista.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Arquivos\\ProjetoAluno2004\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Arquivos\\ProjetoAluno2004\\ProjetoAluno2004\\Views\\_ViewImports.cshtml",
+      "TargetPath": "ProjetoAluno2004\\Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14437,13 +14472,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Arquivos\\ProjetoAluno2004\\ProjetoAluno2004\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "ProjetoAluno2004\\Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Arquivos\\ProjetoAluno2004\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Arquivos\\ProjetoAluno2004\\ProjetoAluno2004\\Views\\_ViewStart.cshtml",
+      "TargetPath": "ProjetoAluno2004\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Arquivos\\ProjetoAluno2004\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Arquivos\\ProjetoAluno2004\\ProjetoAluno2004\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "ProjetoAluno2004\\Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
